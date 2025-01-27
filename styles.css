@@ -1,0 +1,19 @@
+html,
+body {
+  font-size: 20px;
+  background-color: antiquewhite;
+  text-align: justify;
+  margin: 10%;
+}
+
+.grande {
+  font-size: 1.2rem;
+}
+
+.medio {
+  font-size: 0.7rem;
+}
+
+.pequeno {
+  font-size: 0.6em;
+}
